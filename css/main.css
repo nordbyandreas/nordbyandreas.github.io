@@ -12,7 +12,7 @@ body {
 #wrapper {
   max-width: 940px;
   margin: 0 auto;
-  padding; 0 5%;
+  padding: 0 5%;
   
 }
 
@@ -71,7 +71,7 @@ NAVIGATION
 nav {
   text-align: center;
   padding: 10px 0;
-  margin 20px 0 0;
+  margin: 20px 0 0;
 }
 
 nav ul {
@@ -86,7 +86,7 @@ nav li {
 
 nav a {
   font-weight: 800;
-  padding 15px 10px;
+  padding: 15px 10px;
 }
 
 
