@@ -7,7 +7,7 @@
 between 3 of those numbers. Example: [1, 10, 2, 6, 5, 3] = 300"**
 
 
-You can view the code at https://jsfiddle.net/andnord/qbf141rp/14/
+You can view the code at https://jsfiddle.net/andnord/qbf141rp/22/
 
 
 
