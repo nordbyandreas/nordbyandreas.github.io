@@ -9,6 +9,11 @@ between 3 of those numbers. Example: [1, 10, 2, 6, 5, 3] = 300"**
 
 You can view the code at https://jsfiddle.net/andnord/qbf141rp/22/
 
+Logic for solution was that to get the highest product you always want to use the highest numbers in the list.
+
+So simply get the highest number, multiply with sum (starting at 1) and remove it from the list *3
+
+Then return product.
 
 
 
