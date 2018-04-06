@@ -30,7 +30,9 @@ another question/response**
 In the "meaning of life"-follow up, the bot remembers your name and uses it in the next answer.
 
 * **In your submission, include a sample conversation**
-insert pricture here
+![alt text](https://github.com/nordbyandreas.github.io/img/bot1.PNG "sample 1")
+
+
 
 * **In your submission, include a sentence about why you chose a specific
 service/framework to solve this task**
