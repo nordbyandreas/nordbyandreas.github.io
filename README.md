@@ -57,8 +57,8 @@ Working with dialogflow was good.
 * **We should be able to test your submission on our end so include a readme
 with setup instructions**
 
-I interpreted this as meaning that you want to test the actual bot. Since the bot is online available for testing I am assuming it is okay that I don't include setup instructions. Just let me know if you want me to include setup instructions anyway !
+I interpreted this as meaning that you want to test the actual bot. Since the bot is online available for testing I am assuming it is okay that I don't include setup instructions. Just let me know if it is important that I include setup instructions.
 
 You can test the bot at www.andreasnordby.com
 
-The webhook used for accessing the Coindesk-API is hosted on Heroku and you can view the code here : https://github.com/nordbyandreas/coindesk-webhook
+The webhook used by the bot for accessing the Coindesk-API is hosted on Heroku and you can view the code here : https://github.com/nordbyandreas/coindesk-webhook
