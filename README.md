@@ -29,10 +29,12 @@ The "get bitcoin price"-intent uses the Coindesk API to get the current bitcoin 
 another question/response**
 In the "meaning of life"-follow up, the bot remembers your name and uses it in the next answer.
 
-* **In your submission, include a sample conversation**
+* **In your submission, include a sample conversation** <br/>
+<br/>
 part 1
 ![alt text](https://github.com/nordbyandreas/nordbyandreas.github.io/raw/master/img/bot1.PNG "sample 1")
 
+<br/>
 part2
 ![alt text](https://github.com/nordbyandreas/nordbyandreas.github.io/raw/master/img/bot2.PNG "sample 2")
 
